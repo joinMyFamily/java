@@ -5,6 +5,6 @@ import lombok.Data;
 
 @Data
 public class Payment {
-    private  Long id;
+    private  Long id;//id
     private String series;
 }
